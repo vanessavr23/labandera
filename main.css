@@ -1,0 +1,19 @@
+div{
+	display: inline;
+	height: 80px;
+    width: 200px;
+    padding: 10px;
+    margin: 9px;
+}
+
+.lab{
+background: yellow;
+}
+
+.es{
+background: red;
+}
+
+.trans{
+background: yellow;
+}
